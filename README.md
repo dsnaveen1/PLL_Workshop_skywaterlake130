@@ -200,10 +200,6 @@ Phase-locked loop Intuition
 -   VCO is used to generate the required phase frequency corresponding to the
     voltage supplied.
 
--   
-
--   
-
 ## Lock Range
 
 -   Frequency range that the PLL is able to follow the input frequency when the
